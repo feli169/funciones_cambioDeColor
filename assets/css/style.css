@@ -1,0 +1,24 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border: solid 2px black;
+    justify-items: center;
+}
+#caja1, #caja2, #caja3, #caja4{
+    width: 200px;
+    height: 200px;
+    border: solid 2px black;
+    margin: 10px 0px;
+}
+#caja1{
+    background-color: cyan;
+}
+#caja2{
+    background-color: magenta;
+}
+#caja3{
+    background-color: yellow;
+}
+#caja4{
+    background-color: black;
+}
