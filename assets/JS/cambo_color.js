@@ -1,10 +1,10 @@
 document.addEventListener('keydown', function (event) {
     if (event.key === 'a') {
-        color = 'red'
+        color = 'purple'
     } else if (event.key === 's') {
-        color = 'blue'
+        color = 'chartreuse'
     }else if (event.key === 'd') {
-        color = 'green'
+        color = 'firebrick'
     }    
     })
 
