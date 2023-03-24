@@ -1,4 +1,4 @@
-**Link de proyrcto de cambionde color** 
+**Link de proyecto de cambionde color** 
 
 *https://feli169.github.io/funciones_cambioDeColor/*
 
